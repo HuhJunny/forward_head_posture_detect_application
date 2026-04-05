@@ -68,6 +68,10 @@ npm run dev
 
 ---
 
+## 시각화 자료(PPT)
+[📄 PDF로 보기](./docs/거북목 거북거북.pdf)
+---
+
 ## 팀 구성 및 역할
 - 김가은(2021105055): AI, Backend
 <br>[김가은 | kge0211114@gmail.com](mailto:kge0211114@gmail.com)

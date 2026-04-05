@@ -69,7 +69,7 @@ npm run dev
 ---
 
 ## 시각화 자료(PPT)
-[📄 PDF로 보기](./거북거북_거북이.pdf)
+[📄 PDF 보기](https://github.com/HuhJunny/forward_head_posture_detect_application/blob/main/거북거북_거북이.pdf)
 ---
 
 ## 팀 구성 및 역할
